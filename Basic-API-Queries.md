@@ -1,6 +1,6 @@
-# Important API Queries for Music
+# Basic API Queries
 
-This document outlines the most important API queries using songs as an example
+This document outlines the most important API queries using songs as an example. Made as a reference sheet.
 
 ## API Endpoints
 
